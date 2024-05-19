@@ -7,20 +7,27 @@
 
 <h3>BACKEND STACK:</h3>
 
-<p><i>- Language: Python with framework Django.</i></p>
-<p><i>- Database: SQLITE3 (Django native database).</i></p>
+<pre>
+<i>• Language: Python with framework Django.</i>
+<i>• Database: SQLITE3 (Django native database).</i>
+</pre>
 
 <h3><b>FRONTEND STACK: </b></h3>
 
-<p><i>- Markup language: HTML5.</i></p>
-<p><i>- Style Language: CSS3 WITH BOOTSTRAP.</i></p>
-
+<pre>
+<i>• Markup language: HTML5.</i>
+<i>• Style Language: CSS3 WITH BOOTSTRAP.</i>
+</pre>
+  
 <h3><b>DEPLOY:</b></h3>
-<p><i>- We used <b>GIT</b> to version the code, <b>GITHUB</b> to store and <b>PYTHONANYWHERE</b> to deploy the WEB APP using git.</i></p>
+
+<pre>
+<i>• We used <b>GIT</b> to version the code, <b>GITHUB</b> to store and <b>PYTHONANYWHERE</b> to deploy the WEB APP using git.</i>
+</pre>
 
 <h3><b>GOAL WITH THIS REPO:</b></h3>
-<p><i>The real goal with this web app is to understand how django works, how to link templates with views, how to use a database, how to create a folder/files structure using 
-  Django. the knowledge gained here will be used in a much larger project!</i></p>
+<pre><i>The real goal with this web app is to understand how django works, how to link templates with views, how to use a database, how to create a folder/files structure using 
+  Django. the knowledge gained here will be used in a much larger project!</i></pre>
 <hr/>
 </br>
 
@@ -36,9 +43,9 @@ because its MIME type ('text/html') is not a supported stylesheet MIME type, and
 <pre>For some reason, deploying the web app was crashing the link of CSS file.
 I looked for some solutions, but no one helped:</pre>
 
-- Edditing settings.py
-- Adding libraries on virtual environment.
-- And others solutions proposed by stackoverflow, etc.
+• Edditing settings.py
+• Adding libraries on virtual environment.
+• And others solutions proposed by stackoverflow, etc.
 
 <h3>ALTERNATIVE SOLUTION: </h3>
 
